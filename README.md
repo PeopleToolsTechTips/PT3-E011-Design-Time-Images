@@ -16,10 +16,13 @@ YouTube demo: (In Progress)
 
 This file contains all the objects referenced in the video and document.
 
-PeopleTools Projects
-	PeopleTools Design Time Images Viewer 
+PeopleTools Projects  
+	PeopleTools Design Time Images Viewer  
 	This page shows all design time images uploaded to current PSoft environment 
-	X_PT3_011_DESIGNTIME_IMAGES_VW (folder) 
-	X_PT3_011_DESIGNTIME_IMAGES_VW.zip
+	
+	X_PT3_011_DESIGNTIME_IMAGES_VW (folder)  
+	X_PT3_011_DESIGNTIME_IMAGES_VW.zip  
+	
+
 	
 	
