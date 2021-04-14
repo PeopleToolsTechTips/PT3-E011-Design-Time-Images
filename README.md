@@ -4,7 +4,7 @@ Design Time Images
 PeopleTools Tech Tips    
 Randy Groncki	2021-03-22
 
-PT3 E010 Use Checkboxes in BI Pub RTF Template
+PT3 E0101 Design Time Images
 
 Contact:  
 	randy@peopletoolstechtips.com  
@@ -18,10 +18,16 @@ This file contains all the objects referenced in the video and document.
 
 PeopleTools Projects  
 	PeopleTools Design Time Images Viewer  
-	This page shows all design time images uploaded to current PSoft environment 
+		This page shows all design time images uploaded to current PSoft environment 
 	
-	X_PT3_011_DESIGNTIME_IMAGES_VW (folder)  
-	X_PT3_011_DESIGNTIME_IMAGES_VW.zip  
+		X_PT3_011_DESIGNTIME_IMAGES_VW (folder)  
+		X_PT3_011_DESIGNTIME_IMAGES_VW.zip  
+	
+	PeopleTools Design Time Images Demo
+		This contains all the objects and images from the Video Demo 
+	
+		X_PT3_011_DESIGN_TIME_IMAGES_DEMO (folder)  
+		X_PT3_011_DESIGN_TIME_IMAGES_DEMO.zip  
 	
 
 	
