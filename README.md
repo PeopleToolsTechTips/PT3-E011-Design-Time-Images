@@ -12,7 +12,7 @@ Randy Groncki	2021-04-14
 
 ### Walkthrough Documentation: (In Progress)
 
-### YouTube demo: (In Progress)
+### YouTube demo: https://youtu.be/F6u2IxiCWcs
 
 This file contains all the objects referenced in the video and document.
 
